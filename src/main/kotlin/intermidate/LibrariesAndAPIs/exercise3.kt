@@ -1,4 +1,6 @@
 package org.delcom.intermidate.LibrariesAndAPIs
 
-class exercise3 {
+@OptIn(ExperimentalStdlibApi::class)
+fun experimentalFeature() {
+    // kode eksperimen
 }
